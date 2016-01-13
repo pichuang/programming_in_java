@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlarmDoor/AlarmDoor.iml" filepath="$PROJECT_DIR$/AlarmDoor/AlarmDoor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP_Iterator/DP_Iterator.iml" filepath="$PROJECT_DIR$/DP_Iterator/DP_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumSet/EnumSet.iml" filepath="$PROJECT_DIR$/EnumSet/EnumSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queue_by_Linked_List/Queue_by_Linked_List.iml" filepath="$PROJECT_DIR$/Queue_by_Linked_List/Queue_by_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack_by_Linked_List/Queye_by_Linked_List.iml" filepath="$PROJECT_DIR$/Stack_by_Linked_List/Queye_by_Linked_List.iml" />
