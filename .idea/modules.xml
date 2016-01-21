@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/AlarmDoor/AlarmDoor.iml" filepath="$PROJECT_DIR$/AlarmDoor/AlarmDoor.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumSet/EnumSet.iml" filepath="$PROJECT_DIR$/EnumSet/EnumSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator/New_Iterator/New_Iterator.iml" filepath="$PROJECT_DIR$/Iterator/New_Iterator/New_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked_List/Queue_by_Linked_List/Queue_by_Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Queue_by_Linked_List/Queue_by_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked_List/Stack_by_Linked_List/Queye_by_Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Stack_by_Linked_List/Queye_by_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linked_List/Stack_by_Linked_List/Stack_by_Linked_List.iml" filepath="$PROJECT_DIR$/Linked_List/Stack_by_Linked_List/Stack_by_Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compareTo/compareTo.iml" filepath="$PROJECT_DIR$/compareTo/compareTo.iml" />
       <module fileurl="file://$PROJECT_DIR$/programming_in_java.iml" filepath="$PROJECT_DIR$/programming_in_java.iml" />
     </modules>
   </component>
