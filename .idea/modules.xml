@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AlarmDoor/AlarmDoor.iml" filepath="$PROJECT_DIR$/AlarmDoor/AlarmDoor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Anonymous_inner_class/Anonymous_inner_class.iml" filepath="$PROJECT_DIR$/Anonymous_inner_class/Anonymous_inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoCloseable/AutoCloseable.iml" filepath="$PROJECT_DIR$/AutoCloseable/AutoCloseable.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumSet/EnumSet.iml" filepath="$PROJECT_DIR$/EnumSet/EnumSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator/New_Iterator/New_Iterator.iml" filepath="$PROJECT_DIR$/Iterator/New_Iterator/New_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
