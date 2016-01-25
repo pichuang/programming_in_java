@@ -15,7 +15,7 @@ public class EnumSetDemoTest {
     private final ByteArrayOutputStream errContent = new ByteArrayOutputStream();
 
     @Before
-    public void setUP() {
+    public void setUp() {
         System.setOut(new PrintStream(outContent));
         System.setErr(new PrintStream(errContent));
     }
