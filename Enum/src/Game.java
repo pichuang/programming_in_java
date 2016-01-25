@@ -13,6 +13,7 @@ public class Game {
                 break;
             case UP:
                 System.out.println("up");
+                break;
         }
     }
 }
